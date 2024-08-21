@@ -179,4 +179,12 @@ This is a comprehensive overview with practical examples of fundamental data str
 - **Bubble Sort:**
   - Basic comparison-based sorting algorithm with O(n^2) complexity.
   - Simple to implement but inefficient for large datasets; alternative algorithms offer better performance.
+
+
+# Contributors
+
+## Evans Mutuku
+- [GitHub Profile](https://github.com/Evans-mutuku/)
+- Authored this guide on data structures and algorithms.
+
 ```
