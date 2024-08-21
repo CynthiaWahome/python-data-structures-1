@@ -1,4 +1,3 @@
-```markdown
 # Introductory Guide to Data Structures in Python
 
 This is a comprehensive overview with practical examples of fundamental data structures and algorithms implemented in Python. It is designed to help users understand the core concepts and applications of various data structures.
